@@ -96,6 +96,7 @@ class MainWindow(QtWidgets.QMainWindow):
         for active in list_of_active_loads:
             consumption_per_hour += active.get_consumption()
         print(consumption_per_hour)
+        simulator.consumption_changed(consumption_per_hour)
 
     def changed(self):
         consumption = self.ui.horizontalSlider.value()
