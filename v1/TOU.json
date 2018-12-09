@@ -1,0 +1,23 @@
+{
+  "type" : "TOU",
+  "start" : "TOU start time",
+  "end" : "TOU end time",
+  "hourPricing" : [
+    {
+      "hour" : "00:00",
+      "price" : "calcuclated price"
+    },
+    {
+      "hour" : "01:00",
+      "price" : "calcuclated price"
+    },
+    {
+      "hour" : "02:00",
+      "price" : "calcuclated price"
+    },
+    {
+      "hour" : "03:00",
+      "price" : "calcuclated price"
+    },
+  ]
+}

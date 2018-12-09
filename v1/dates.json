@@ -1,0 +1,36 @@
+{
+  "type" : "TOU/RTP",
+  "dates" :
+    [
+      {
+        "date" : "21.12.2018",
+        "holiday" : false,
+        "saturday" : false,
+        "price" : "link na TOU/RTP json koji ce generirati polje sa satima i cijenom"
+      },
+      {
+        "date" : "22.12.2018",
+        "holiday" : false,
+        "saturday" : false,
+        "price" : "link na TOU/RTP json koji ce generirati polje sa satima i cijenom"
+      },
+      {
+        "date" : "23.12.2018",
+        "holiday" : false,
+        "saturday" : false,
+        "price" : "link na TOU/RTP json koji ce generirati polje sa satima i cijenom"
+      },
+      {
+        "date" : "24.12.2018",
+        "holiday" : true,
+        "saturday" : false,
+        "price" : "link na TOU/RTP json koji ce generirati polje sa satima i cijenom"
+      },
+      {
+        "date" : "25.12.2018",
+        "holiday" : true,
+        "saturday" : false,
+        "price" : "link na TOU/RTP json koji ce generirati polje sa satima i cijenom"
+      }
+  ]
+}

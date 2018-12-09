@@ -1,0 +1,8 @@
+JSON data.json sastoji se od odabranih datuma ili duzeg vremenskog perioda koje ce korisnik odabrati.
+Svaki datum ima varijablu koja oznacavna praznik, nedjelju ili subotu, i polje price koje se,
+ovisno o vrsti naprlate i danu povezuje na: TOU.json (posebno generiran json kojem se pocetak i kraj promijene
+cijene mogu mijenjati) ili RTP.json(posebno generiran json koji se sstoji od 3 razlicite vrste naplate - rani dan,
+subota, nedjelja/blagdan, ovisno o olaznim parametrima biti ce moguce i generirati i kraci vremenski period od 1h, te
+ce odabrani algoritam racunati cijene). U dates.json u kljuc price bit ce upisano polje sa cijenom za svaki sat ili kraci
+odabrani vremenski period. Postoji mogucnost da sva tri JSON-a budu jedan sa razlicitim kljucevima, ali mozda je ovako
+jednostavnije zbog skripte koja ce ih generirati ovisno o ulaznim parametrima.

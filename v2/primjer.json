@@ -1,0 +1,30 @@
+{
+	"pricing": {
+		"profil_1": [{
+				"00:00:00": 43.34
+			},
+			{
+				"01:00:00": 12.32
+			},
+			{
+				"21:00:00": 13.54
+			}
+		],
+		"profil_2": [{}],
+		"profil_3": [{}]
+},
+
+"timeline": [{
+		"date": "21.12.2018",
+		"profile": "<ime profila iz pricing objekta>"
+	},
+	{
+		"date": "22.12.2018",
+		"profile": "<ime profila iz pricing objekta>"
+	},
+	{
+		"date": "23.12.2018",
+		"profile": "<ime profila iz pricing objekta>"
+	}
+]
+}

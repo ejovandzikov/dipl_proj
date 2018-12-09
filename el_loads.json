@@ -1,0 +1,56 @@
+{"loads" : [
+  {
+    "name" : "Bulb",
+    "types" : [
+      {
+        "name" : "Led",
+        "consumption" : 10
+      },
+      {
+        "name" : "Halogen",
+        "consumption" : 150
+      },
+      {
+        "name" : "Classic",
+        "consumption" : 100
+      },
+      {
+        "name" : "Energy saving",
+        "consumption" : 50
+      }
+    ]
+  },
+  {
+    "name" : "Washing machine",
+    "types" :[
+      {
+        "name" : "Type 1",
+        "consumption" : 2000
+      },
+      {
+        "name" : "Type 2",
+        "consumption" : 3000
+      }
+    ]
+  },
+  {
+    "name" : "AC",
+    "types" :[
+      {
+        "name" : "Small",
+        "consumption" : 2500
+      },
+      {
+        "name" : "Medium",
+        "consumption" : 3500
+      },
+      {
+        "name" : "Big",
+        "consumption" : 4000
+      }
+
+    ]
+  }
+
+]
+}

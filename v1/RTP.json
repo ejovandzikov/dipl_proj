@@ -1,0 +1,65 @@
+{
+  "type" : "RTP",
+  "pricing" : [
+    {"holiday&sunday" : {
+      "hourPricing" : [
+        {
+          "hour" : "00:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "01:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "02:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "03:00",
+          "price" : "calcuclated price"
+        }
+      ]
+    }},
+    {"saturday" : {
+      "hourPricing" : [
+        {
+          "hour" : "00:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "01:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "02:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "03:00",
+          "price" : "calcuclated price"
+        }
+      ]
+    }},
+    {"workday" : {
+      "hourPricing" : [
+        {
+          "hour" : "00:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "01:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "02:00",
+          "price" : "calcuclated price"
+        },
+        {
+          "hour" : "03:00",
+          "price" : "calcuclated price"
+        }
+      ]
+    }}
+  ]
+}
