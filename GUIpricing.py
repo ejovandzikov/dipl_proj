@@ -105,8 +105,7 @@ class MainWindow(QtWidgets.QMainWindow):
         simulator.signal_received("start")
         if not self.myThread.isRunning():
             self.myThread.start()
-#uvodenkoji generira trosila tip trosila je trosila ime poseban py
-# klasa vraca olika je njena potrosnja u nekom trenutku za neki period
+
 
 class MyQThread(QtCore.QThread):
     def __init__(self, parent=None):
